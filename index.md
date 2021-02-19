@@ -4,7 +4,7 @@
 
 The City of Boston's Parks Department maintains a comprehensive data set on trees in Boston. However, it's a manual and laborious process to get the data (such as  conducting site visits for tree counts) on a regular basis. We would like to explore the use of satellite and aerial imagery to get a regularly updated  census of trees across the city. We would also like to look at the feasibility of determining tree health and the variety of tree species across the city.
 
-The ideal outcome would be the creation of a new, accurate machine learning model focused on urban trees canopies, the creation of a simple web interface for the Parks Department to upload new aerial imagery for analysis, and the ability to the Parks Department to generate a list of statistics on tree counts to ensure that it continues to plants trees in an equitable manner across the city.
+The ideal outcome would be 1) the creation of a new, accurate machine learning model focused on urban trees canopies, 2) the creation of a simple web interface for the Parks Department to upload new aerial imagery for analysis, and 3) the ability to the Parks Department to generate a list of statistics on tree counts to ensure that it continues to plants trees in an equitable manner across the city.
 
 We would give this project a **medium** level of difficulty.
 
