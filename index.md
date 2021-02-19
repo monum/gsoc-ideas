@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Idead List for Google Summer of Code from the Mayor's Office of New Urban Mechanics
 
 You can use the [editor on GitHub](https://github.com/monum/gsoc-ideas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
