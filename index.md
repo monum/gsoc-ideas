@@ -22,7 +22,7 @@ This project will require immediate experience with data analysis packages, GIS,
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
 
-### 3. Improved Translation on the City's 311 App with Machine Learning
+### 3. Improved Translation for the City's 311 App with Machine Learning
 
 In 2010, our office launched the City of Boston's 311 app (one of the first in the nation). The app allows residents to report an array on non-emergency issues (such as potholes) with their smartphones. Historically, the app has only been offered in English, and we have done some of the preliminary work to provide it in other languages. This is a very important issue to address, since up to 33% of the city does not speak English.
 
