@@ -1,5 +1,7 @@
 ## Ideas List for Google Summer of Code from the Mayor's Office of New Urban Mechanics
 
+Below you will find a list of ideas we have for a Google Summer of Code student for the summer of 2021. Thank you for your consideration!
+
 ###  1. Urban Tree Canopy Detection Using Satellite and Aerial Imagery
 
 The City of Boston's Parks Department maintains a comprehensive data set on trees in Boston. However, it's a manual and laborious process to get the data (such as  conducting site visits for tree counts) on a regular basis. We would like to explore the use of satellite and aerial imagery to get a regularly updated  census of trees across the city. We would also like to look at the feasibility of determining tree health and the variety of tree species across the city.
