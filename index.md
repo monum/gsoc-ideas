@@ -1,37 +1,13 @@
 ## Ideas List for Google Summer of Code from the Mayor's Office of New Urban Mechanics
 
-You can use the [editor on GitHub](https://github.com/monum/gsoc-ideas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###  Urban Tree Canopy Detection Using Satellite and Aerial Imagery
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The City of Boston's Parks Department maintains a comprehensive data set on trees in Boston. However, it's a manual and laborious process to get the data (such as  conducting site visits for tree counts) on a regular basis. We would like to explore the use of satellite and aerial imagery to get a regularly updated  census of trees across the city. We would also like to look at the feasibility of determining tree health and the variety of tree species across the city.
 
-### Markdown
+The ideal outcome would be the creation of a new, accurate machine learning model focused on urban trees canopies, the creation of a simple web interface for the Parks Department to upload new aerial imagery for analysis, and the ability to the Parks Department to generate a list of statistics on tree counts to ensure that it continues to plants trees in an equitable manner across the city.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We would give this project a **medium** level of difficulty.
 
-```markdown
-Syntax highlighted code block
+This project will require intermediate experience with Python, machine learning (in particular TensorFlow and training models with imagery), and limited experience with JavaScript HTML and CSS.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/monum/gsoc-ideas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The core code base for the project is Deep Forest (https://github.com/weecology/DeepForest), a machine learning library for tree crown detection. We will be partnering with the the WeEcology group at the University of Florida, in particular Ben Weinstein Ph.D. who has agreed to serve as an advisor. The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
