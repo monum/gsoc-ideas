@@ -1,4 +1,4 @@
-## Ideas List for Google Summer of Code from the Mayor's Office of New Urban Mechanics
+## Ideas List for Google Summer of Code from the Mayor's Office of New Urban Mechanics (City of Boston)
 
 Below you will find a list of ideas we have for a Google Summer of Code student for the summer of 2021. Thank you for your consideration!
 
