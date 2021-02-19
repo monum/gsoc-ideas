@@ -14,17 +14,7 @@ This project will require intermediate experience with Python, machine learning 
 
 The core code base for the project is [Deep Forest](https://github.com/weecology/DeepForest), a machine learning library for tree crown detection. We will be partnering with the the WeEcology group at the University of Florida, in particular Ben Weinstein Ph.D. who has agreed to serve as an advisor. The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
 
-### 2. Building a Web Service API for Solar Roof Potential
-
-The Climate Planning team in the City of Boston's Environment Department is interested in building a lightweight web service API that provides data on the solar energy potential of building roofs throughout the city. The API should also provide data on how alternative energy sources could reduce a particular building's emissions footprint. In addition, we would like to build a simple web interface for a building owner to search for their property to view data on the solar potential of their roof and the impact on the emissions associated with their building's energy use.
-
-We give this project a **medium** level of difficulty.
-
-This project will require immediate experience with data analysis packages, GIS, and building web service APIs with either Python or Ruby (we have had good experiences wih Flask for this task).
-
-The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
-
-### 3. Improved Translation for the City's 311 App with Machine Learning
+### 2. Improved Translation for the City's 311 App with Machine Learning
 
 In 2010, our office launched the City of Boston's 311 app (one of the first in the nation). The app allows residents to report an array on non-emergency issues (such as potholes) with their smartphones. Historically, the app has only been offered in English, and we have done some of the preliminary work to provide it in other languages. This is a very important issue to address, since up to 33% of the city does not speak English.
 
@@ -33,5 +23,15 @@ In 2010, our office launched the City of Boston's 311 app (one of the first in t
 We give this project a **medium to hard** level of difficulty.
 
 This project will require intermediate experience with machine learning, building and training models with text classification, natural language processing, and Python. It will also require intermediate experience with building web service APIs with with a web framework like Flask, Django etc.
+
+The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
+
+### 3. Building a Web Service API for Solar Roof Potential
+
+The Climate Planning team in the City of Boston's Environment Department is interested in building a lightweight web service API that provides data on the solar energy potential of building roofs throughout the city. The API should also provide data on how alternative energy sources could reduce a particular building's emissions footprint. Finally, we would like to build a simple web interface for a building owner to search for their property to view data on the solar potential of their roof and the impact on the emissions associated with their building's energy use.
+
+We give this project a **medium** level of difficulty.
+
+This project will require immediate experience with data analysis packages, GIS, and building web service APIs with either Python or Ruby (we have had good experiences wih Flask for this task).
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
