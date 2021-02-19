@@ -6,7 +6,7 @@ Below you will find a list of ideas we have for a Google Summer of Code student 
 
 The City of Boston's Parks Department maintains a comprehensive data set on trees in Boston. However, it's a manual and laborious process to get the data (such as  conducting site visits for tree counts) on a regular basis. We would like to explore the use of satellite and aerial imagery to get a regularly updated  census of trees across the city. We would also like to look at the feasibility of determining tree health and the variety of tree species across the city.
 
-The ideal outcome would be 1) the creation of a new, accurate machine learning model focused on urban tree canopies, 2) the creation of a simple web interface for the Parks Department to upload new aerial imagery for analysis, and 3) the ability to the Parks Department to generate a list of statistics on tree counts to ensure that it continues to plants trees in an equitable manner across the city.
+The ideal outcome would be **1)** the creation of a new, accurate machine learning model focused on urban tree canopies, **2)** the creation of a simple web interface for the Parks Department to upload new aerial imagery for analysis, and **3)** the ability to the Parks Department to generate a list of statistics on tree counts to ensure that it continues to plants trees in an equitable manner across the city.
 
 We would give this project a **medium** level of difficulty.
 
@@ -16,7 +16,7 @@ The core code base for the project is [Deep Forest](https://github.com/weecology
 
 ### 2. Improved Translation for the City's 311 App with Machine Learning
 
-In 2010, our office launched the City of Boston's 311 app (one of the first in the nation). The app allows residents to report an array on non-emergency issues (such as potholes) with their smartphones. Historically, the app has only been offered in English, and we have done some of the preliminary work to provide it in other languages. This is a very important issue to address, since up to 33% of the city does not speak English.
+In 2010, our office launched the City of Boston's [311 app](https://311.boston.gov/) (one of the first in the nation). The app allows residents to report an array on non-emergency issues (such as potholes) with their smartphones. Historically, the app has only been offered in English, and we have done some of the preliminary work to provide it in other languages. This is a very important issue to address, since up to 33% of the city does not speak English.
 
 [Inspired by the City of San José](https://medium.com/swlh/better-language-translation-through-machine-learning-everything-i-wish-i-knew-6-months-ago-8fa212fb1731), we would like to build an API-accessible service that improves the translation of text from residents reporting issues through the 311 app. The translation service would be based on a custom, trained model using vocabulary frequently associated with City services.
 
