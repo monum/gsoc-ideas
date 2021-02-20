@@ -37,3 +37,15 @@ We give this project a **medium** level of difficulty.
 This project will require intermediate experience with data analysis packages, GIS, and building web service APIs with either Python or Ruby (we have had good experiences wih Flask for this task).
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
+
+### 4. Data Visualization for the Upcoming At-Home Sensor Network ("Lunchbox of Sensors")
+
+Over the past year, our office has been conducting research and planning on an at-home sensor network called the *Lunchbox of Sensors*. The idea is that city residents could check-out a unified kit of sensors from their local library and use them at home. The internet-connected kits will include sensors for temperature, barometric pressure, relative humidity, temperature, noise, carbon dioxide (a decent measure of ventilation), and a variety of common household air pollutants (VOCs, carbon monoxide, and nitrogen dioxide). We are currently working with a experienced fabrication studio to build a collection of the prototypes.
+
+Since the data from the kits will be available via an API, we would like to build a comprehensive data visualization about the sensor network for the public. At its most basic level, the visualization will display the real-time data collected from the network of sensors on custom maps of the sensor network and animated, interactive charts. Since the sensor data will focus on indoor air environments, the visualization should also incorporate data on the outdoor environment from real-time sources. Finally, the visualization should also provide sociological context, such as providing information on social vulnerability on the maps (via the [CDC's Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html), for example).
+
+We give this project a **medium** level of difficulty.
+
+This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks like D3, data analysis tools, and JavaScript/HTML/CSS.
+
+The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
