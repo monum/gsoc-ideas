@@ -38,7 +38,7 @@ This project will require intermediate experience with data analysis packages, G
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
 
-### 4. Data Visualization for the Upcoming At-Home Sensor Network ("Lunchbox of Sensors")
+### 4. Data Visualization for "Lunchbox of Sensors", Boston's New At-Home Sensor Network
 
 Over the past year, our office has been conducting research and planning on an at-home sensor network called the *Lunchbox of Sensors*. The idea is that city residents could check-out a unified kit of sensors from their local library and use them at home. The internet-connected kits will include sensors for temperature, barometric pressure, relative humidity, temperature, noise, carbon dioxide (a decent measure of ventilation), and a variety of common household air pollutants (VOCs, carbon monoxide, and nitrogen dioxide). We are currently working with a experienced fabrication studio to build a collection of the prototypes.
 
