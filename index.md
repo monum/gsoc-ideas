@@ -28,17 +28,7 @@ This project will require intermediate experience with machine learning, buildin
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
 
-### 3. Building a Web Service API for Solar Roof Potential
-
-The Climate Planning team in the City of Boston's Environment Department is interested in building a lightweight web service API that provides data on the solar energy potential of building roofs throughout the city. The API should also provide data on how alternative energy sources could reduce a particular building's emissions footprint. Finally, we would like to build a simple web interface for a building owner to search for their property to view data on the solar potential of their roof and the impact on the emissions associated with their building's energy use.
-
-We give this project a **medium** level of difficulty.
-
-This project will require intermediate experience with data analysis packages, GIS, and building web service APIs with either Python or Ruby (we have had good experiences wih Flask for this task).
-
-The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
-
-### 4. Data Visualization for "Lunchbox of Sensors", Boston's New At-Home Sensor Network
+### 3. Data Visualization for "Lunchbox of Sensors", Boston's New At-Home Sensor Network
 
 Over the past year, our office has been conducting research and planning on an at-home sensor network called the *Lunchbox of Sensors*. The idea is that city residents could check-out a unified kit of sensors from their local library and use them at home. The internet-connected kits will include sensors for temperature, barometric pressure, relative humidity, temperature, noise, carbon dioxide (a decent measure of ventilation), and a variety of common household air pollutants (VOCs, carbon monoxide, and nitrogen dioxide). We are currently working with a experienced fabrication studio to build a collection of the prototypes (FabLab Barcelona's Smart Citizen Kits). 
 
@@ -49,5 +39,15 @@ The student will be using [FabLab Barcelona's Python SDK](https://github.com/fab
 We give this project a **medium** level of difficulty.
 
 This project will require intermediate experience with GIS and web mapping platforms, data visualization frameworks like D3, data analysis tools, and JavaScript/HTML/CSS.
+
+The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
+
+### 4. Building a Web Service API for Solar Roof Potential
+
+The Climate Planning team in the City of Boston's Environment Department is interested in building a lightweight web service API that provides data on the solar energy potential of building roofs throughout the city. The API should also provide data on how alternative energy sources could reduce a particular building's emissions footprint. Finally, we would like to build a simple web interface for a building owner to search for their property to view data on the solar potential of their roof and the impact on the emissions associated with their building's energy use.
+
+We give this project a **medium** level of difficulty.
+
+This project will require intermediate experience with data analysis packages, GIS, and building web service APIs with either Python or Ruby (we have had good experiences wih Flask for this task).
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
