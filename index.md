@@ -8,7 +8,7 @@ The City of Boston is working with FEMA and regional partners in Greater Boston 
 
 Boston’s Office of Emergency Management believes that geospatial analysis is key to this effort. Using open-source geospatial libraries such as GeoPandas and Jupyter notebooks, a Google Summer of Code student will be asked to build a tool to help City planners identify areas in Boston that may be a good fit for post-disaster housing. Finding these areas requires several layers of analysis, including mapping the boundary of a flood zones, proximity to other highly populated residential areas, and a City’s zoning code (how cities regulate land use).
 
-We give this project a medium level difficulty. 
+We give this project a **medium** level difficulty. 
 
 This project will require intermediate experience with Python and GIS/geospatial data analysis packages e.g., GeoPandas. The student will be expected to use the Jupyter Notebook app to document their work over the summer.
 
@@ -20,7 +20,7 @@ The City of Boston's Parks Department maintains a comprehensive data set on tree
 
 The ideal outcome would be **1)** the creation of a new, accurate machine learning model focused on urban tree canopies, **2)** the creation of a simple web interface for the Parks Department to upload new aerial imagery for analysis, and **3)** the ability to the Parks Department to generate a list of statistics on tree counts to ensure that it continues to plants trees in an equitable manner across the city.
 
-We would give this project a **medium** level of difficulty.
+We give this project a **medium** level of difficulty.
 
 This project will require intermediate experience with Python, machine learning (in particular TensorFlow and training models with imagery), interacting with RESTful APIs, and limited experience with JavaScript, HTML, and CSS.
 
