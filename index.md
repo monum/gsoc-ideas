@@ -2,7 +2,19 @@
 
 Below, you will find a list of ideas we have for a Google Summer of Code student for the summer of 2021. Thank you for your consideration!
 
-###  1. Urban Tree Canopy Detection Using Satellite and Aerial Imagery
+### 1. Geospatial Tools for Post-Disaster Housing Analysis 
+
+The City of Boston is working with FEMA and regional partners in Greater Boston on a plan to improve disaster preparedness and regional collaboration. An important piece of this plan involves post-disaster housing. How can we find places suitable for short-term housing after a disaster?
+
+Boston’s Office of Emergency Management believes that geospatial analysis is key to this effort. Using open-source geospatial libraries such as GeoPandas and Jupyter notebooks, a Google Summer of Code student will be asked to build a tool to help City planners identify areas in Boston that may be a good fit for post-disaster housing. Finding these areas requires several layers of analysis, including mapping the boundary of a flood zones, proximity to other highly populated residential areas, and a City’s zoning code (how cities regulate land use).
+
+We give this project a medium level difficulty. 
+
+This project will require intermediate experience with Python and GIS/geospatial data analysis packages e.g., GeoPandas. The student will be expected to use the Jupyter Notebook app to document their work over the summer.
+
+The mentors for the project will include the GIS Analyst and Project Director from Boston’s Office of Emergency Management and a Program Director from the Mayor’s Office of Urban Mechanics (a previous Google Summer of Code mentor at Code for America).
+
+###  2. Urban Tree Canopy Detection Using Satellite and Aerial Imagery
 
 The City of Boston's Parks Department maintains a comprehensive data set on trees in Boston. However, it's a manual and laborious process to get the data (such as  conducting site visits for tree counts) on a regular basis. We would like to explore the use of satellite and aerial imagery to get a regularly updated  census of trees across the city. We would also like to look at the feasibility of determining tree health and the variety of tree species across the city.
 
@@ -14,7 +26,7 @@ This project will require intermediate experience with Python, machine learning 
 
 The core code base for the project is [Deep Forest](https://github.com/weecology/DeepForest), a machine learning library for tree crown detection. The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
 
-### 2. Improved Translation for the City's 311 App with Machine Learning
+### 3. Improved Translation for the City's 311 App with Machine Learning
 
 In 2010, our office launched the City of Boston's [311 app](https://311.boston.gov/) (one of the first in the nation). The app allows residents to report an array on non-emergency issues (such as potholes) with their smartphones. Historically, the app has only been offered in English, and we have done some of the preliminary work to provide it in other languages. This is a very important issue to address, since up to 33% of the city does not speak English.
 
@@ -28,7 +40,7 @@ This project will require intermediate experience with machine learning, buildin
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
 
-### 3. Building a Web Service API for Solar Roof Potential
+### 4. Building a Web Service API for Solar Roof Potential
 
 The Climate Planning team in the City of Boston's Environment Department is interested in building a lightweight web service API that provides data on the solar energy potential of building roofs throughout the city. The API should also provide data on how alternative energy sources could reduce a particular building's emissions footprint. Finally, we would like to build a simple web interface for a building owner to search for their property to view data on the solar potential of their roof and the impact on the emissions associated with their building's energy use.
 
