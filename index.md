@@ -6,7 +6,7 @@ Below, you will find a list of ideas we have for a Google Summer of Code student
 
 The City of Boston is working with FEMA and regional partners in Greater Boston on a plan to improve disaster preparedness and regional collaboration. An important piece of this plan involves post-disaster housing. How can we find places suitable for short-term housing after a disaster?
 
-Boston’s Office of Emergency Management believes that geospatial analysis is key to this effort. Using open-source geospatial libraries such as GeoPandas and Jupyter notebooks, a Google Summer of Code student will be asked to build a tool to help City planners identify areas in Boston that may be a good fit for post-disaster housing. Finding these areas requires several layers of analysis, including mapping the boundary of a flood zones, proximity to other highly populated residential areas, and a City’s zoning code (how cities regulate land use).
+Boston’s Office of Emergency Management believes that geospatial analysis is key to this effort. Using open-source geospatial libraries such as GeoPandas and Jupyter notebooks, a Google Summer of Code student will be asked to build a tool to help City planners identify areas in Boston that may be a good fit for post-disaster housing. Finding these areas requires several layers of analysis, including mapping the boundary of flood zones, proximity to other highly populated residential areas, and a City’s zoning code (how cities regulate land use).
 
 We give this project a **medium** level difficulty. 
 
@@ -28,7 +28,7 @@ The core code base for the project is [Deep Forest](https://github.com/weecology
 
 ### 3. Improved Translation for the City's 311 App with Machine Learning
 
-In 2010, our office launched the City of Boston's [311 app](https://311.boston.gov/) (one of the first in the nation). The app allows residents to report an array on non-emergency issues (such as potholes) with their smartphones. Historically, the app has only been offered in English, and we have done some of the preliminary work to provide it in other languages. This is a very important issue to address, since up to 33% of the city does not speak English.
+In 2010, our office launched the City of Boston's [311 app](https://311.boston.gov/) (one of the first in the nation). The app allows residents to report an array of non-emergency issues (such as potholes) with their smartphones. Historically, the app has only been offered in English, and we have done some preliminary work to provide it in other languages. This is a very important issue to address since up to 33% of the city does not speak English.
 
 [Inspired by the City of San José](https://medium.com/swlh/better-language-translation-through-machine-learning-everything-i-wish-i-knew-6-months-ago-8fa212fb1731), we would like to build an API-accessible service that improves the translation of text from residents reporting issues through the 311 app. The translation service would be based on a custom, trained model using vocabulary frequently associated with City services. 
 
@@ -36,7 +36,7 @@ The ideal outcome would be having an API endpoint that would accept text from a 
 
 We give this project a **medium to hard** level of difficulty.
 
-This project will require intermediate experience with machine learning, building and training models with text classification, natural language processing, and Python. It will also require intermediate experience with building web service APIs with with a web framework like Flask, Django etc.
+This project will require intermediate experience with machine learning, building and training models with text classification, natural language processing, and Python. It will also require intermediate experience with building web service APIs with a web framework like Flask, Django etc.
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
 
@@ -46,6 +46,6 @@ The Climate Planning team in the City of Boston's Environment Department is inte
 
 We give this project a **medium** level of difficulty.
 
-This project will require intermediate experience with data analysis packages, GIS, and building web service APIs with either Python or Ruby (we have had good experiences wih Flask for this task).
+This project will require intermediate experience with data analysis packages, GIS, and building web service APIs with either Python or Ruby (we have had good experiences with Flask for this task).
 
 The mentors for the project will include two Program Directors at the Mayor's Office of Urban Mechanics, including one who served as a Google Summer of Code mentor at Code for America in 2011.
